@@ -1,6 +1,7 @@
 # University Course Projects
 
-Welcome to the University Course Projects repository! This repository contains a collection of projects completed as part of various university courses. Each project is designed to showcase different skills and concepts learned throughout the courses. Explore the projects below and discover the fascinating world of computer science and networking.
+Welcome to the University Course Projects repository! This repository contains a collection of projects completed as part of various university courses. Each project is designed to showcase different skills and concepts learned throughout the courses. 
+Each project has a description in its respective file.
 
 ## Projects
 
