@@ -1,23 +1,23 @@
-MyStringBuilder Project
+# C++ StringBuilder
 
-C++17 was used to fulfill the project.
+## Details
 
-Designed to mimic some of the functionality provided by StringBuilder class in Java.
-The provided Google coding standards on Moodle were used.
+- This project aims at mimicing some of the functionality provided by Java's StringBuilder class.
 
-Included is a simple Node class, & a MyStringBuilder class that mimics StringBuilder.
+- The StringBuilder is basically an encapsulated linked list, where each node stores a single character of the string.
 
-The Node class is designed to fit the needs of MyStringBuilder, as no specifications where given.
+- The program must provide a CLI to test each public function of the MyStringBuilder class.
 
-The MyStringBuilder class was designed according to the specifications with some changes to make implementing certain features in the class easier & more flexible.
+- The project represents 15% of the course grade.
 
-As no limitations where proposed, liberty was taken in implementing the main.cpp logic.
-Maps, colored displays, & a selection system for playing around with multiple MyStringBuilders were used.
+-  Grade: **_95 / 100_**
 
-The standard library saw very limited use in the implementation of MyStringBuilder, as to not defeat the point of the project.
+## Features
 
-Along the source files, you will find a compiled executable of the files.
+- Efficient string manipulation
+- Good-looking CLI
+- User can create multiple instances of StringBuilders
+- The StringBuilders can be manipulated in many ways
 
-Compilation was done using the GCC compiler:
-	gcc (Rev2, Built by MSYS2 project) 12.1.0
-	Copyright (C) 2022 Free Software Foundation, Inc.
+## Screenshots
+
