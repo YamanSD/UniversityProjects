@@ -6,7 +6,7 @@ Welcome to the University Course Projects repository! This repository contains a
 
 ### C++ StringBuilder
 
-![C++ StringBuilder](screenshots/stringBuilder0.png)
+![C++ StringBuilder](images/stringBuilder0.png)
 
 A simplified implementation of Java's StringBuilder class in C++. This project allows you to efficiently create and manipulate strings without the overhead of repeatedly creating new string objects. It provides a command-line interface (CLI) that lets you interact with instances of StringBuilders. With built-in functions like creating new builders, inserting strings, appending integers, and more, you can easily create and modify strings to suit your needs.
 
