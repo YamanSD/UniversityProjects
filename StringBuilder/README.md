@@ -21,4 +21,15 @@
 
 ## Example Run
 
-
+> <img src="../images/stringBuilder1.png" width="500" height="100%">
+> <img src="../images/stringBuilder2.png" width="500" height="100%">
+> <img src="../images/stringBuilder3.png" width="500" height="100%">
+> <img src="../images/stringBuilder4.png" width="500" height="100%">
+> <img src="../images/stringBuilder5.png" width="500" height="100%">
+> <img src="../images/stringBuilder6.png" width="500" height="100%">
+> <img src="../images/stringBuilder7.png" width="500" height="100%">
+> <img src="../images/stringBuilder8.png" width="500" height="100%">
+> <img src="../images/stringBuilder9.png" width="500" height="100%">
+> <img src="../images/stringBuilder10.png" width="500" height="100%">
+> <img src="../images/stringBuilder11.png" width="500" height="100%">
+> <img src="../images/stringBuilder12.png" width="500" height="100%">
