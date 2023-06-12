@@ -26,14 +26,6 @@ Delve into the realm of computer networks with this project that focuses on conf
 
 To get started with any of the projects in this repository, follow the installation and usage instructions provided in the respective project directories.
 
-## Contributing
-
-Contributions are welcome! If you have any suggestions, bug reports, or would like to add new features to any of the projects, please feel free to submit a pull request. Your contributions help improve the projects and create a better learning experience for everyone.
-
-## License
-
-This repository is licensed under the [MIT License](LICENSE).
-
 ## Acknowledgments
 
 We would like to express our gratitude to the professors and instructors who guided us throughout the courses and provided valuable insights and knowledge. Their expertise and dedication greatly contributed to the development of these projects.
