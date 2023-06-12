@@ -19,5 +19,6 @@
 - User can create multiple instances of StringBuilders
 - The StringBuilders can be manipulated in many ways
 
-## Screenshots
+## Example Run
+
 
