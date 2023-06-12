@@ -18,6 +18,7 @@
 - Good-looking CLI
 - User can create multiple instances of StringBuilders
 - The StringBuilders can be manipulated in many ways
+- Informs the user of invalid input
 
 ## Example Run
 
