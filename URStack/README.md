@@ -4,11 +4,13 @@
 
 ## Details
 
-- This project aims at mimicing some of the functionality provided by Java's StringBuilder class
+- This project aims at making an undo/redo stack similar to the Windows actions stack
 
-- The StringBuilder is basically an encapsulated linked list, where each node stores a single character of the string
+- The URStack class is a basically an encapsulated stack with some added functionality 
 
-- The program must provide a CLI to test each public function of the MyStringBuilder class
+- The program must provide a CLI to test each public function of the URStack class
+
+- The program must use single linked nodes & must be generic
 
 - The project represents 20% of the course grade
 
@@ -18,10 +20,11 @@
 
 ## Features
 
-- Efficient string manipulation
+- Efficient nodes manipulation
 - Good-looking CLI
-- User can create multiple instances of StringBuilders
-- The StringBuilders can be manipulated in many ways
+- Somewhat interactive
 - Informs the user of invalid input
 
 ## Example Run
+
+
