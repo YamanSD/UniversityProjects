@@ -11,6 +11,7 @@ Each project has a description in its respective file.
 
 ### [C++ StringBuilder](StringBuilder)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)
 
 ![C++ StringBuilder](images/stringBuilder0.png)
 
@@ -19,6 +20,7 @@ A simplified implementation of Java's StringBuilder class in C++. This project a
 ### [Undo/Redo Stack of Actions](URStack)
 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)
 
 ![Undo/Redo Stack](images/urstack0.png)
 
