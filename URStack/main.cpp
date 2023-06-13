@@ -321,11 +321,11 @@ void displayStackInfo(URStack<T>& stack, ostream& out) {
 
     /* Displays {size} / {capacity} */
     displayDataMessage(
-            "Stack size:\t\t" + to_string(stack.getSize())
+            "Stack size:\t\t\t" + to_string(stack.getSize())
                             + " / " + to_string(stack.getCapacity()),
             out) << '\n';
 
-    displayDataMessage("Datatype:\t\t", out);
+    displayDataMessage("Datatype:\t\t\t", out);
 
     /* Displays "String" or "Custom" based on the type of T */
     displayDataMessage(is_same_v<T, string> ? "String" : "Custom",
