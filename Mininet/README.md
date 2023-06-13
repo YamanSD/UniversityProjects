@@ -11,13 +11,11 @@
 - The project represents 15% of the course grade
 - Grade: _**100 / 100**_
 
-## Installation
-
-- Download & install Cisco Packet Tracer 8.2.1.0118 (Must use this exact version)
-
 ## Usage
 
-- Open the [Network.pkt](Network.pkt) file using Packet Tracer 
+1. Download & install Cisco Packet Tracer 8.2.1.0118 (Must use this exact version)
+
+2. Open the [Network.pkt](Network.pkt) file using Packet Tracer 
 
 ## Features
 
