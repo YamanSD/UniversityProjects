@@ -43,6 +43,6 @@
 ## Screenshots
 
 > ![Mininet](images/pk1.1.png)
-> ![Mininet](images/pk1.1.png)
-> ![Mininet](images/pk1.1.png)
-> ![Mininet](images/pk1.1.png)
+> ![Mininet](images/pkt1.2.png)
+> ![Mininet](images/pkt1.3.png)
+> ![Mininet](images/pkt2.1.png)
