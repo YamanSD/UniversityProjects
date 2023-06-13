@@ -8,6 +8,7 @@
 - The project consists of two big networks, each of which is divided into subnetworks
 - Public & private IPv4 address were used according to IANA standards
 - The network is essentialy a simplified, tiny version of the internet
+- The project represents 15% of the course grade
 - Grade: _**100 / 100**_
 
 ## Installation
