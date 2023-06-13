@@ -6,7 +6,7 @@
 
 - This project aims at mimicing some of the functionality provided by Java's StringBuilder class
 
-- The StringBuilder is basically an encapsulated linked list, where each node stores a single character of the string
+- The MyStringBuilder class is basically an encapsulated linked list, where each node stores a single character of the string
 
 - The program must provide a CLI to test each public function of the MyStringBuilder class
 
