@@ -10,11 +10,11 @@
 
 - The program must provide a CLI to test each public function of the MyStringBuilder class
 
-- The project represents 15% of the course grade
+- The project represents 20% of the course grade
 
 - Must use C++17 or newer
 
--  Grade: **_95 / 100_**
+- Grade: **_95 / 100_**
 
 ## Features
 
