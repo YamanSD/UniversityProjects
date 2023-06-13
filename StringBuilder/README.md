@@ -4,13 +4,15 @@
 
 ## Details
 
-- This project aims at mimicing some of the functionality provided by Java's StringBuilder class.
+- This project aims at mimicing some of the functionality provided by Java's StringBuilder class
 
-- The StringBuilder is basically an encapsulated linked list, where each node stores a single character of the string.
+- The StringBuilder is basically an encapsulated linked list, where each node stores a single character of the string
 
-- The program must provide a CLI to test each public function of the MyStringBuilder class.
+- The program must provide a CLI to test each public function of the MyStringBuilder class
 
-- The project represents 15% of the course grade.
+- The project represents 15% of the course grade
+
+- Must use C++17 or newer
 
 -  Grade: **_95 / 100_**
 
