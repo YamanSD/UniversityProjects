@@ -17,6 +17,16 @@
 
 -  Grade: **_95 / 100_**
 
+## Usage
+
+- Run the precompiled main files 
+> Or go to the files directory & compile the files using
+>> `clang++ *.cpp -o main --std=c++17` for clang
+
+>> `g++ *.cpp -o main --std=c++17` for gcc
+>>> Then run the main executable 
+> Alternatively use CMake `cmake . && make`, then run the executable
+
 ## Features
 
 - Efficient string manipulation
