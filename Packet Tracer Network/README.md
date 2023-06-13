@@ -1,29 +1,41 @@
-# Packet Tracer Network
+# Mininet
 
-A brief description of your project goes here.
+![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
 
-## Project Description
 
-Provide a detailed overview of your project here. Explain its purpose, features, and any other relevant information.
+- This is the final project for the CSIS231 course
+- The aim of this project is to demostrate the BGP protocol using Packet Tracer
+- The project consists of two big networks, each of which is divided into subnetworks
+- Public & private IPv4 address were used according to IANA standards
+- The network is essentialy a simplified, tiny version of the internet
+- Grade: _**100 / 100**_
 
 ## Installation
 
-Describe how to install and set up your project. Include any prerequisites, step-by-step instructions, and code examples if necessary.
+- Download & install Cisco Packet Tracer 8.2.1.0118 (Must use this exact version)
 
 ## Usage
 
-Provide instructions on how to use your project. Include examples and explanations for different use cases. You can also include screenshots or GIFs to help users understand the functionality of your project.
+- Open the [Network.pkt](Network.pkt) file using Packet Tracer 
 
-## Contributing
+## Features
 
-Explain how others can contribute to your project. Provide guidelines for submitting bug reports, feature requests, or pull requests. Mention any coding conventions, testing procedures, or development workflows that contributors should follow.
+### The network includes the following devices:
+- PCs
+- Tablets
+- Switches
+- Layer-3 Switches
+- Routers
+- Wireless Access Points
+- Servers
 
-## License
 
-Specify the license under which your project is released. Include any copyright notices or disclaimers required by the chosen license.
-
----
-
-Feel free to customize this README template according to your project's needs. Remember to update the sections with relevant information to provide a clear and concise guide for users and contributors.
-
-If you have any questions or need further assistance, please contact [your contact information].
+### The network uses the following technologies:
+- BGP
+- EIGRP
+- Static Routing
+- DHCP Servers
+- VLAN Routing
+- NAT (Static, Dynamic, & Overloaded)
+- IPv4 address only
+- ACLs
