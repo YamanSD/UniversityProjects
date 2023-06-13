@@ -1,7 +1,7 @@
 # University Course Projects
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+<!-- ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) -->
 
 Welcome to the University Course Projects repository! This repository contains a collection of projects completed as part of various university courses. Each project is designed to showcase different skills and concepts learned throughout the courses. 
 Each project has a description in its respective file.
