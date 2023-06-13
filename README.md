@@ -8,7 +8,7 @@ Each project has a description in its respective file.
 
 ## Projects
 
-### C++ StringBuilder
+### [C++ StringBuilder](StringBuilder)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 ![C++ StringBuilder](images/stringBuilder0.png)
