@@ -27,6 +27,7 @@
 
 >> `g++ *.cpp -o main --std=c++17` for gcc
 >>> Then run the main executable 
+
 > Alternatively use CMake `cmake . && make`, then run the executable
 
 ## Features
