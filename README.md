@@ -15,7 +15,7 @@ Each project has a description in its respective file.
 
 A simplified implementation of Java's StringBuilder class in C++. This project allows you to efficiently create and manipulate strings without the overhead of repeatedly creating new string objects. It provides a command-line interface (CLI) that lets you interact with instances of StringBuilders. With built-in functions like creating new builders, inserting strings, appending integers, and more, you can easily create and modify strings to suit your needs.
 
-### Undo/Redo Stack of Actions
+### [Undo/Redo Stack of Actions](URStack)
 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
@@ -23,7 +23,7 @@ A simplified implementation of Java's StringBuilder class in C++. This project a
 
 Ever wished you could undo or redo your actions in a program? This project introduces an Undo/Redo stack implementation that allows you to manage a history of actions and navigate through them effortlessly. Whether you're working on a text editor, graphic design software, or any application where user actions need to be tracked, the Undo/Redo Stack of Actions project provides a solid foundation for implementing this essential feature.
 
-### Mininet
+### [Mininet](Mininet)
 
 ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
 
