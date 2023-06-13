@@ -19,7 +19,7 @@ A simplified implementation of Java's StringBuilder class in C++. This project a
 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-![Undo/Redo Stack](images/undoredo.png)
+![Undo/Redo Stack](images/urstack0.png)
 
 Ever wished you could undo or redo your actions in a program? This project introduces an Undo/Redo stack implementation that allows you to manage a history of actions and navigate through them effortlessly. Whether you're working on a text editor, graphic design software, or any application where user actions need to be tracked, the Undo/Redo Stack of Actions project provides a solid foundation for implementing this essential feature.
 
