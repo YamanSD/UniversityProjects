@@ -39,3 +39,10 @@
 - NAT (Static, Dynamic, & Overloaded)
 - IPv4 address only
 - ACLs
+
+## Screenshots
+
+> ![Mininet](images/pk1.1.png)
+> ![Mininet](images/pk1.1.png)
+> ![Mininet](images/pk1.1.png)
+> ![Mininet](images/pk1.1.png)
