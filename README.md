@@ -37,7 +37,7 @@ Ever wished you could undo or redo your actions in a program? This project intro
 
 Delve into the realm of computer networks with this project that focuses on configuring networks using Cisco Packet Tracer. In this hands-on project, you will design, simulate, and configure a network topology using Cisco Packet Tracer, a powerful network simulation tool. Explore various networking concepts, configure routers, switches, and other network devices, and gain a deeper understanding of how network protocols and configurations work together to establish communication.
 
-### [Basice E-Commerce](Basic_E-Commerce)
+### [MiniBank](MiniBank)
 
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
