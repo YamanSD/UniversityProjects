@@ -27,4 +27,22 @@ To run MiniBank, make sure you have the following requirements installed:
 
 ## Demo
 
-![demo](/images/)
+![demo](../images/minibank0.png)
+![demo](../images/minibank1.png)
+![demo](../images/minibank2.png)
+![demo](../images/minibank3.png)
+![demo](../images/minibank4.png)
+![demo](../images/minibank5.png)
+![demo](../images/minibank6.png)
+![demo](../images/minibank7.png)
+![demo](../images/minibank8.png)
+![demo](../images/minibank9.png)
+![demo](../images/minibank10.png)
+![demo](../images/minibank11.png)
+![demo](../images/minibank12.png)
+![demo](../images/minibank13.png)
+![demo](../images/minibank14.png)
+![demo](../images/minibank15.png)
+![demo](../images/minibank16.png)
+![demo](../images/minibank17.png)
+![demo](../images/minibank18.png)
