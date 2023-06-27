@@ -43,6 +43,10 @@ Delve into the realm of computer networks with this project that focuses on conf
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 
+![MiniBank](images/test)
+
+MiniBank is a simple bank application built using Java, Spring Boot, and Hibernate. It provides basic functionality for managing customers, accounts, and loans. The application has a Command Line Interface (CLI) for user interaction.
+
 ## Getting Started
 
 To get started with any of the projects in this repository, follow the installation and usage instructions provided in the respective project directories.
